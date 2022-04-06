@@ -17,3 +17,7 @@
 * [푸리에 급수에서 유도하는 푸리에 변환](https://keyboard-lover.tistory.com/16)
 * [CTFS, CTFT, DTFS, DTFT 확실히 구분하기](https://keyboard-lover.tistory.com/19)
 * [DFT가 무엇인가? 구현까지](https://keyboard-lover.tistory.com/9)
+
+
+## C Language
+* [음수 표현법](https://keyboard-lover.tistory.com/21)
