@@ -6,7 +6,7 @@
 
 * [특이값 분해(SVD)와 고유치, 고유벡터](https://keyboard-lover.tistory.com/12)
 * [최적화 - Constraint Optimization와 같이 정리한 KKT condition](https://keyboard-lover.tistory.com/20)
-
+* [서포트벡터머신(SVM) 식까지 세워보기](https://keyboard-lover.tistory.com/22)
 
 
 ## Signal Processing
