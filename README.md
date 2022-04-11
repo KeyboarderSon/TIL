@@ -8,6 +8,8 @@
 * [최적화 - Constraint Optimization와 같이 정리한 KKT condition](https://keyboard-lover.tistory.com/20)
 * [서포트벡터머신(SVM) 식까지 세워보기](https://keyboard-lover.tistory.com/22)
 * [Linear SVM까지 살펴보기](https://keyboard-lover.tistory.com/23)
+* [커널함수와 Non-linear SVM](https://keyboard-lover.tistory.com/24)
+
 
 ## Signal Processing
 * [신호 기초 다지기](https://keyboard-lover.tistory.com/14)
