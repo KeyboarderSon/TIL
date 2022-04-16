@@ -18,6 +18,7 @@
 * [푸리에 급수](https://keyboard-lover.tistory.com/13)
 * [푸리에 급수에서 유도하는 푸리에 변환](https://keyboard-lover.tistory.com/16)
 * [CTFS, CTFT, DTFS, DTFT 확실히 구분하기](https://keyboard-lover.tistory.com/19)
+* [Nyquist Theorem과 Sampling Rate](https://keyboard-lover.tistory.com/25)
 * [DFT가 무엇인가? 구현까지](https://keyboard-lover.tistory.com/9)
 
 
