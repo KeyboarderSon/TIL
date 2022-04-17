@@ -3,7 +3,6 @@
 
 ## Deep Learning
 * [주성분 분석(PCA)과 고유치, 고유벡터](https://keyboard-lover.tistory.com/11)
-
 * [특이값 분해(SVD)와 고유치, 고유벡터](https://keyboard-lover.tistory.com/12)
 * [최적화 - Constraint Optimization와 같이 정리한 KKT condition](https://keyboard-lover.tistory.com/20)
 * [서포트벡터머신(SVM) 식까지 세워보기](https://keyboard-lover.tistory.com/22)
@@ -24,3 +23,6 @@
 
 ## C Language
 * [음수 표현법](https://keyboard-lover.tistory.com/21)
+  
+## Algorithm
+* [DFS 깊이우선탐색 컴퓨터 내에서의 흐름](https://keyboard-lover.tistory.com/26)
