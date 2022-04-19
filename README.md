@@ -24,5 +24,7 @@
 ## C Language
 * [음수 표현법](https://keyboard-lover.tistory.com/21)
 * [C언어 struct 구조체 메모리 크기 계산](https://keyboard-lover.tistory.com/27)  
+* [C언어 문자열 포인터, 문자열 배열 정리](https://keyboard-lover.tistory.com/28)
+
 ## Algorithm
 * [DFS 깊이우선탐색 컴퓨터 내에서의 흐름](https://keyboard-lover.tistory.com/26)
