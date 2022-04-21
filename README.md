@@ -2,6 +2,7 @@
 
 
 ## Deep Learning
+* [분산부터 공분산행렬까지](https://keyboard-lover.tistory.com/30)
 * [주성분 분석(PCA)과 고유치, 고유벡터](https://keyboard-lover.tistory.com/11)
 * [특이값 분해(SVD)와 고유치, 고유벡터](https://keyboard-lover.tistory.com/12)
 * [최적화 - Constraint Optimization와 같이 정리한 KKT condition](https://keyboard-lover.tistory.com/20)
