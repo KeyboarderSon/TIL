@@ -3,6 +3,7 @@
 
 ## Deep Learning
 * [가우시안 분포 개념 익히기](https://keyboard-lover.tistory.com/31)
+* [Bayes' Rule & Theorem 정리](https://keyboard-lover.tistory.com/32)
 * [분산부터 공분산행렬까지](https://keyboard-lover.tistory.com/30)
 * [주성분 분석(PCA)과 고유치, 고유벡터](https://keyboard-lover.tistory.com/11)
 * [특이값 분해(SVD)와 고유치, 고유벡터](https://keyboard-lover.tistory.com/12)
