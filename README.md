@@ -11,6 +11,7 @@
 * [서포트벡터머신(SVM) 식까지 세워보기](https://keyboard-lover.tistory.com/22)
 * [Linear SVM까지 살펴보기](https://keyboard-lover.tistory.com/23)
 * [커널함수와 Non-linear SVM](https://keyboard-lover.tistory.com/24)
+* [Density Estimation - MLE와 MAP로 유한한 파라미터로의 분포 추정하기](https://keyboard-lover.tistory.com/34)
 
 
 ## Signal Processing
