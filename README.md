@@ -13,6 +13,8 @@
 * [커널함수와 Non-linear SVM](https://keyboard-lover.tistory.com/24)
 * [[Density Estimation] MLE와 MAP로 유한한 파라미터로의 분포 추정하기](https://keyboard-lover.tistory.com/34)
 * [[Density Estimation] 파젠창(Kernel Density Estimation)으로 PDF 분포 추정하기](https://keyboard-lover.tistory.com/35)
+* [[Density Estimation]k-Nearest Neighbors Estimation과 Classification](https://keyboard-lover.tistory.com/36)
+
 
 
 ## Signal Processing
@@ -26,11 +28,14 @@
 * [DFT가 무엇인가? 구현까지](https://keyboard-lover.tistory.com/9)
 
 
+
 ## C Language
 * [음수 표현법](https://keyboard-lover.tistory.com/21)
 * [C언어 struct 구조체 메모리 크기 계산](https://keyboard-lover.tistory.com/27)  
 * [C언어 문자열 포인터, 문자열 배열 정리](https://keyboard-lover.tistory.com/28)
 * [C언어 void 포인터에 자료형 할당](https://keyboard-lover.tistory.com/29)
+
+
 
 ## Algorithm
 * [DFS 깊이우선탐색 컴퓨터 내에서의 흐름](https://keyboard-lover.tistory.com/26)
