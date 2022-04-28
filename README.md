@@ -14,6 +14,7 @@
 * [[Density Estimation] MLE와 MAP로 유한한 파라미터로의 분포 추정하기](https://keyboard-lover.tistory.com/34)
 * [[Density Estimation] 파젠창(Kernel Density Estimation)으로 PDF 분포 추정하기](https://keyboard-lover.tistory.com/35)
 * [[Density Estimation]k-Nearest Neighbors Estimation과 Classification](https://keyboard-lover.tistory.com/36)
+* [[Density Estimation]GMM(Gaussian Mixture Model)과 EM Algorithm](https://keyboard-lover.tistory.com/37)
 
 
 
