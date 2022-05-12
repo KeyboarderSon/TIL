@@ -2,6 +2,7 @@
 
 
 ## Deep Learning
+* [[Useful Formula]행렬 미분, 벡터 미분](https://keyboard-lover.tistory.com/40)
 * [가우시안 분포 개념 익히기](https://keyboard-lover.tistory.com/31)
 * [Bayes' Rule & Theorem 정리](https://keyboard-lover.tistory.com/32)
 * [분산부터 공분산행렬까지](https://keyboard-lover.tistory.com/30)
