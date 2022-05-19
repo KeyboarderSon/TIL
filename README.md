@@ -2,8 +2,10 @@
 
 
 ## Deep Learning
+* [[선형대수]고유치, 고유벡터](https://keyboard-lover.tistory.com/41)
 * [[Useful Formula]행렬 미분, 벡터 미분](https://keyboard-lover.tistory.com/40)
-* [가우시안 분포 개념 익히기](https://keyboard-lover.tistory.com/31)
+* [가우시안 분포 개념 익히기](https://keyboard-love
+* r.tistory.com/31)
 * [Bayes' Rule & Theorem 정리](https://keyboard-lover.tistory.com/32)
 * [분산부터 공분산행렬까지](https://keyboard-lover.tistory.com/30)
 * [주성분 분석(PCA)과 고유치, 고유벡터](https://keyboard-lover.tistory.com/11)
