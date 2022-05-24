@@ -24,7 +24,9 @@
 
 ## Signal Processing
 * [신호 기초 다지기](https://keyboard-lover.tistory.com/14)
+* [신호의 기본개념(1)](https://keyboard-lover.tistory.com/42)
 * [LTI system 보기 전 계단함수와 임펄스 응답](https://keyboard-lover.tistory.com/17)
+* 
 * [LTI system 정의 및 간단 정리](https://keyboard-lover.tistory.com/18)
 * [푸리에 급수](https://keyboard-lover.tistory.com/13)
 * [푸리에 급수에서 유도하는 푸리에 변환](https://keyboard-lover.tistory.com/16)
