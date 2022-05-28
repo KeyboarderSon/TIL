@@ -27,6 +27,7 @@
 * [신호의 기본개념(2)](https://keyboard-lover.tistory.com/43)
 * [신호 표현하기 - 지수함수](https://keyboard-lover.tistory.com/44)
 * [신호 표현하기 - Impulse와 Step 함수](https://keyboard-lover.tistory.com/45)
+* [시스템의 성질](https://keyboard-lover.tistory.com/46)
 * [LTI system 보기 전 계단함수와 임펄스 응답](https://keyboard-lover.tistory.com/17)
 * [LTI system 정의 및 간단 정리](https://keyboard-lover.tistory.com/18)
 * [푸리에 급수](https://keyboard-lover.tistory.com/13)
