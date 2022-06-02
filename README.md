@@ -10,6 +10,7 @@
 * [주성분 분석(PCA)과 고유치, 고유벡터](https://keyboard-lover.tistory.com/11)
 * [특이값 분해(SVD)와 고유치, 고유벡터](https://keyboard-lover.tistory.com/12)
 * [최적화 - Constraint Optimization와 같이 정리한 KKT condition](https://keyboard-lover.tistory.com/20)
+* [Logistic Regression](https://keyboard-lover.tistory.com/49)
 * [서포트벡터머신(SVM) 식까지 세워보기](https://keyboard-lover.tistory.com/22)
 * [Linear SVM까지 살펴보기](https://keyboard-lover.tistory.com/23)
 * [커널함수와 Non-linear SVM](https://keyboard-lover.tistory.com/24)
