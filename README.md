@@ -33,6 +33,7 @@
 * [연속시간 LTI 시스템](https://keyboard-lover.tistory.com/48)
 * [LTI system 보기 전 계단함수와 임펄스 응답](https://keyboard-lover.tistory.com/17)
 * [LTI system 정의 및 간단 정리](https://keyboard-lover.tistory.com/18)
+* [푸리에 들어가기 전 eigenfunction과 지수함수](https://keyboard-lover.tistory.com/50)
 * [푸리에 급수](https://keyboard-lover.tistory.com/13)
 * [푸리에 급수에서 유도하는 푸리에 변환](https://keyboard-lover.tistory.com/16)
 * [CTFS, CTFT, DTFS, DTFT 확실히 구분하기](https://keyboard-lover.tistory.com/19)
