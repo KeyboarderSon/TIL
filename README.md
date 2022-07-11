@@ -37,6 +37,7 @@
 * [연속 시간 푸리에 급수 계수 구하기(오일러 통한 지수함수 ver)](https://keyboard-lover.tistory.com/51)
 * [연속 시간 푸리에 급수 계수 구하기(삼각함수 ver)](https://keyboard-lover.tistory.com/13)
 * [연속 시간 푸리에 급수 성질](https://keyboard-lover.tistory.com/52)
+* [이산 시간 푸리에 급수](https://keyboard-lover.tistory.com/53)
 * [푸리에 급수에서 유도하는 푸리에 변환](https://keyboard-lover.tistory.com/16)
 * [CTFS, CTFT, DTFS, DTFT 확실히 구분하기](https://keyboard-lover.tistory.com/19)
 * [Nyquist Theorem과 Sampling Rate](https://keyboard-lover.tistory.com/25)
