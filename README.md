@@ -1,5 +1,6 @@
 # Today I Learned
-
+## Probability and Random Processes
+* [확률 기초 개념 - sample space, event, random variable](https://keyboard-lover.tistory.com/56)
 
 ## Deep Learning
 * [[선형대수]고유치, 고유벡터](https://keyboard-lover.tistory.com/41)
